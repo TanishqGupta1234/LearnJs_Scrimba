@@ -1,2 +1,2 @@
 # LearnJs_Scrimba
-My leaning of Javasciprt from Simba
+My leaning of Javasciprt from Scrimba
